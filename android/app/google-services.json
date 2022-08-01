@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621273456344",
+    "project_id": "kompanion-91880",
+    "storage_bucket": "kompanion-91880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621273456344:android:d59d508a972088bd8b01ad",
+        "android_client_info": {
+          "package_name": "com.example.chatbot_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621273456344-74lqnhu5dh91ijmbupfpc651s9cn0tvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IDFK2kA8TO_Gz_6nnr0Z1eMuqiU1Kyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621273456344-74lqnhu5dh91ijmbupfpc651s9cn0tvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
